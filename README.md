@@ -12,3 +12,4 @@
 ## 📫 Contato
 - GitHub: [github.com/seuusuario](https://github.com/Rodrigs-dev)
 - Email: prado.rodrigues2112@gmail.com
+print("Hello world!")
